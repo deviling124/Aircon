@@ -1,0 +1,20 @@
+Power House
+Storage Room
+Maintenance Room
+Female Toilet Room
+Male Toilet Room
+Cadaver Holding Room
+Suppy Room
+PHILHEALTH
+
+
+Minor Operating Room
+Equip/Supply Storage
+Examination/Treatment
+Bulk Storage
+Pharmacy
+Medical Records Office
+Medical Records
+Doctor Duty
+Work Area Lab
+Waiting Area
