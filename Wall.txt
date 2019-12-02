@@ -1,8 +1,0 @@
-Inside Surface Resistance	0	0	0	0.029	0
-Cement Plaster	25	1598	1	0.03475	40
-CHB sand and gravel	150	980	0.92	0.135	147
-Cement Plaster	25	1598	1	0.03475	40
-Outside surface resitance	0	0	0	0.12	0
-
-Absorp	0.45
-Light
